@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "SITE_NAME": "Ajayameru Rular Municipality, Ward-1 office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.586009, 29.35377]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": { "SITE_NAME": "HeNN Children Home" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.540631, 27.6254239]
+      }
+    }
+  ]
+}
