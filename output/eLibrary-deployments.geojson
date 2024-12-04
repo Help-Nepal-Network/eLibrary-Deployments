@@ -1,0 +1,821 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Adarsha Madhyamik Vidyalaya",
+                "date": "2007-Jan-07",
+                "location": "Lalmatiya, Dang",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.72573040868602,
+                    27.84026172284474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Saraswoti Madyamik Vidyalaya",
+                "date": "2007-Apr-01",
+                "location": "Bhaktapur",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.43655224791827,
+                    27.675852888609036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Koldongdevi Madyamik Vidyalaya",
+                "date": "2008-Jan-21",
+                "location": "Timure, Sindhupalchowk",
+                "funded_by": "Save the Children Norway-Nepal",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.84741289623929,
+                    27.706753650552024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Educational Training Center",
+                "date": "2008-Jan-24",
+                "location": "Dhulikhel, Kavre",
+                "funded_by": "UNESCO",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.54872473976997,
+                    27.61245340338997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Janata Model Higher Secondary School",
+                "date": "2008-May-01",
+                "location": "Morang",
+                "funded_by": "Late Benu Adhikari\u2019s family",
+                "number_of_computers": "1 Server+6 client"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.28184384440611,
+                    26.472071426587725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Tikot Secondary School",
+                "date": "2008-May-21",
+                "location": "Tikot, Myagdi",
+                "funded_by": "Nepal Library Foundation",
+                "number_of_computers": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.62050393286354,
+                    28.428502755818613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Himachal Higher Secondary School",
+                "date": "2008-May-22",
+                "location": "Nangi, Myagdi",
+                "funded_by": "Nepal Library Foundation",
+                "number_of_computers": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.6373217999223,
+                    28.373378399565766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Rauta Higher Secondary School",
+                "date": "2009-Jan-11",
+                "location": "Udaypur",
+                "funded_by": "Save the Children Norway-Nepal",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6850928442363,
+                    26.94073475410199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Sanskriti Sadan Secondary School",
+                "date": "2009-Jan-11",
+                "location": "Duradanda, Lamjung",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.37191043931084,
+                    28.158155616376163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Everest Boarding School",
+                "date": "2009-May-01",
+                "location": "Bhaktapur",
+                "funded_by": "Sailesh Munankarmi",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.42486701416777,
+                    27.67662300967885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Aadarsha Higher Secondary School",
+                "date": "2009-May-01",
+                "location": "Chitwan",
+                "funded_by": "Sailesh Munankarmi",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.27276892983478,
+                    27.62852414693608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Sunkoshi Campus",
+                "date": "2009-Jul-01",
+                "location": "Sindhuli",
+                "funded_by": "NRN-Australia",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.89127319696216,
+                    27.411392658436302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Bhola Higher Secondary School",
+                "date": "2009-Oct-26",
+                "location": "Ganjabhawanipur, Bara",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.06605544453235,
+                    27.026926387784524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Simpani Higher Secondary School",
+                "date": "2009-Nov-01",
+                "location": "Khotang",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.79316727581171,
+                    27.04080368581137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Jayanti Secondary School",
+                "date": "2010-Aug-01",
+                "location": "Myagdi, Bhakimli",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.50535788164359,
+                    28.33760020961768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Janakalyan Higher Secondary School",
+                "date": "2011-Feb-19",
+                "location": "Boudha, Kathmandu",
+                "funded_by": "United Nations",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.06605325923061,
+                    27.02692638779396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Lekhani Higher Secondary School",
+                "date": "2011-Mar-05",
+                "location": "Baglung",
+                "funded_by": "NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.50636124658988,
+                    28.240510563227183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Jan Kalyan Rastriya Prathamik School",
+                "date": "2011-Mar-12",
+                "location": "Nawalparasi",
+                "funded_by": "NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.76076132605043,
+                    28.59424175258733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Taltuleshwori Lower Secondary School",
+                "date": "2011-Mar-16",
+                "location": "Kotagaun \u2013 2, Thangpalkot, Sindhupalchowk",
+                "funded_by": "NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.65589753441286,
+                    27.931787804637704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Buddha Secondary school",
+                "date": "2011-Mar-19",
+                "location": "Bhimgithe, Baglung",
+                "funded_by": "N/A",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.19556210851498,
+                    28.266037979855387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Janata Dom Higher Secondary School\nShree Janta Domi Chaudhary Secondary School ",
+                "date": "2011-Mar-23",
+                "location": "Pokharbinda, Siraha",
+                "funded_by": "NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.4192891017058,
+                    26.70412712199188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Adarsha Madhyamik Vidhyalaya",
+                "date": "2011-Apr-10",
+                "location": "Rima, Baglung",
+                "funded_by": "N/A",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Darakh Higher Secondary School",
+                "date": "2011-Apr-17",
+                "location": "Harinagar, Kailali",
+                "funded_by": "NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94027803770594,
+                    28.627686893829896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Nepal Rastriya Medium School",
+                "date": "2011-Nov-19",
+                "location": "Sedhuwa, Birgunj, Parsa",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.78940712075804,
+                    27.150584855180718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in EK Priya Higher Secondary School",
+                "date": "2012-Jan-01",
+                "location": "Bardiya",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.19487988190609,
+                    28.520711373297125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in Shree Ganesh Higher Secondary School",
+                "date": "2012-Jan-01",
+                "location": "Kavre",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.59563955171843,
+                    27.63972122168387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in the Shreepuraj Community Development Center (SCDC)",
+                "date": "2012-Jan-01",
+                "location": "Saptari",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.62728274785036,
+                    26.642584672771726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in Shree Saraswati Secondary School",
+                "date": "2012-Jan-01",
+                "location": "Itahari, Sunsari",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.27800440451892,
+                    26.570769522844078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in Sri Raithane Secondary School",
+                "date": "2012-Jan-01",
+                "location": "Thangpalkot-4, Sindhupalchowk,",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.66532123160935,
+                    27.931518759578154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in  Amar Jyoti Model Higher Secondary School",
+                "date": "2012-Apr-01",
+                "location": "Surkhel Nepal",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6382860644661,
+                    28.592523866558633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Establishment of an E-library in Shree Higher Secondary School",
+                "date": "2012-Apr-01",
+                "location": "VDC Jalpa chilaune-6, Udyapur",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.67690566262957,
+                    26.893196725242174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "E-library at Shree Jwala Higher Secondary School",
+                "date": "2013-Jan-01",
+                "location": "Pagnath VDC-1, Dailekh",
+                "funded_by": "HeNN, Save the Children International (SCI), NCell",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Dasharath Higher Secondary School",
+                "date": "2015-Mar-24",
+                "location": "Sadepaani-3, Kailali (Far-Western region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Nepal Rastriya Higher Secondary School",
+                "date": "2015-Mar-24",
+                "location": "Kimuchaur, Salyan (Western region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Tulodaya Secondary School",
+                "date": "2015-Mar-24",
+                "location": "Tilahar-3, Parbat (Western region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Brahmarupa Secondary School",
+                "date": "2015-Mar-24",
+                "location": "Kaski (Western region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Bhagwati Higher Secondary School",
+                "date": "2015-Mar-24",
+                "location": "Morang (Eastern region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Saraswoti Higher Secondary School",
+                "date": "2015-Mar-25",
+                "location": "Bangesal-2, Pyuthan (Western region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Nepal Rastriya Sarbodaya Higher Secondary School",
+                "date": "2015-Mar-25",
+                "location": "Paudi amarai-5, Gulmi (Western region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Higher Secondary School",
+                "date": "2015-Mar-26",
+                "location": "Rautahat (Central)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Changresthan Higher Secondary School",
+                "date": "2015-Mar-26",
+                "location": "Solukhumbu (Eastern region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Buddha Secondary School",
+                "date": "2015-Mar-27",
+                "location": "Lalitpur (Central)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Nauline Secondary School",
+                "date": "2015-Mar-29",
+                "location": "Chunikhel, Kathmandu (Central region)",
+                "funded_by": "Chase Foundation, HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Sarwajanik Higher Secondary School",
+                "date": "2016-Sep-01",
+                "location": "Syangja-1 Malunga",
+                "funded_by": "HeNN",
+                "number_of_computers": "11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.64106071774324,
+                    27.924251224753043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Shree Aadharbhoot School (now: Secondary School Khoksar)",
+                "date": "2017",
+                "location": "Riupni, Saptari",
+                "funded_by": "N/A",
+                "number_of_computers": "11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Ajaymeru Rural Municipaltiy Building",
+                "date": "2022-Dec-10",
+                "location": "Ajaymeru-1, Dadeldhura",
+                "funded_by": "HeNN",
+                "number_of_computers": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "Help Nepal Network Childrens Home",
+                "date": "2024-Feb-17",
+                "location": "Dhulikhel",
+                "funded_by": "HeNN",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "site": "High Tech Classrooms at Rajkhuleshwor School",
+                "date": "N/A",
+                "location": "Bhimeshwor Municipality-02, Dolakha",
+                "funded_by": "N/A",
+                "number_of_computers": "N/A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        }
+    ]
+}
