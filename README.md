@@ -12,28 +12,22 @@ The eLibrary initiative is a low-cost, low-maintenance project designed to provi
 
 ### Setting Up the Environment
 
-1. Navigate to the `scripts` directory:
-
-   ```bash
-   cd scripts/
-   ```
-
-2. Create and activate a virtual environment:
+1. Create and activate a virtual environment:
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    ```
 
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
 ### Updating the Website
 
-- To update the website content, modify files in the `scripts/src` directory.
-- To update deployment data, edit the `data/HeNN eLibraries - Clean.csv` file, then regenerate the site by running:
+- To update the website content, modify files in the `src/html/` directory.
+- To update deployment data, edit the `src/data/HeNN eLibraries - Clean.csv` file, then regenerate the site by running:
   ```bash
   python generate_site.py
   ```
