@@ -1,39 +1,45 @@
-# HeNN eLibrary Deployments
+# HeNN eLibrary Projects
 
-## 👋 hello
+## 👋 Welcome
 
-This is a database of eLibrary deployments done under [Help Nepal Network](https://helpnepal.net/) in different parts of Nepal.
+This repository contains the database of eLibrary deployments carried out by [Help Nepal Network](https://helpnepal.net/) in various parts of Nepal.
 
-With the goal of Help Nepal Network to provide support in the sectors of health and education in rural Nepal, it is running an e-library project with the slogan **“One e-library per district”**.
+Help Nepal Network aims to support rural Nepal in the fields of health and education. Under this mission, the eLibrary project was launched with the vision of **“One eLibrary per district”**.
 
-E-library or electronic library is an ambitious and innovative project launched by Help Nepal Network to offer computer facilities for the benefit of students and communities in all 75 districts of the country. This low-cost, low-maintenance model is highly suitable for rural Nepal. But most importantly, for the first time in their lives, the Help Nepal e-Library will allow beneficiaries to leverage modern information and communication technology (ICT) to enhance learning, build computer skills and narrow the digital divide.
+The eLibrary initiative is a low-cost, low-maintenance project designed to provide computer facilities to students and communities in all 75 districts of Nepal. This innovative effort helps bridge the digital divide by introducing modern information and communication technology (ICT), enhancing learning opportunities, and building essential computer skills in rural areas.
 
-## 💻 Setup
+## 💻 Getting Started
 
-Create and activate virtual env
+### Setting Up the Environment
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
+1. Navigate to the `scripts` directory:
 
-Install requirements
+   ```bash
+   cd scripts/
+   ```
 
-```bash
-pip install -r requirements.txt
-```
+2. Create and activate a virtual environment:
 
-## 🔄 Converting eLibrary csv to html and markdown
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
 
-```bash
-cd scripts
-python csv_to_table.py
-```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Updating the Website
+
+- To update the website content, modify files in the `scripts/src` directory.
+- To update deployment data, edit the `data/HeNN eLibraries - Clean.csv` file, then regenerate the site by running:
+  ```bash
+  python generate_site.py
+  ```
 
 ## 🗒️ TODO
 
-- [ ] Create script to auto populate geojson
+- [x] Create a script to automatically populate GeoJSON files.
 
-## License
-
-[MIT](LICENSE)
+Feel free to contribute and enhance this project! 😊
